@@ -1,4 +1,4 @@
-# 🚨 Cyberbullying Detection using-SVM
+# 🚨 Cyberbullying-Detection-using-SVM
 
 A multi-label Natural Language Processing (NLP) project that detects different types of toxic and cyberbullying comments using **TF-IDF** feature extraction and **Support Vector Machines (SVM)**.
 
